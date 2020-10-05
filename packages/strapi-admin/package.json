@@ -59,7 +59,7 @@
     "immer": "^7.0.8",
     "immutable": "^3.8.2",
     "invariant": "^2.2.4",
-    "is-wsl": "^2.0.0",
+    "is-wsl": "^2.2.0",
     "jsonwebtoken": "8.5.1",
     "koa-compose": "4.1.0",
     "koa-passport": "4.1.3",
