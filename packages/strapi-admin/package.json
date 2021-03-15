@@ -86,7 +86,7 @@
     "react-select": "^3.0.8",
     "react-transition-group": "^4.3.0",
     "react-virtualized": "^9.21.2",
-    "reactstrap": "8.4.1",
+    "reactstrap": "8.9.0",
     "redux": "^4.0.1",
     "redux-immutable": "^4.0.0",
     "redux-saga": "^0.16.0",
